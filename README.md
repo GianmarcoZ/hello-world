@@ -1,2 +1,2 @@
 # hello-world
-Just a testing repository
+Hi there! This is a branch that modifies main.
